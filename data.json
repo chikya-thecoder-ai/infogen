@@ -1,0 +1,31 @@
+{
+  "title": "THE RISE OF 67",
+  "subtitle": "Cultural Phenomenon Report",
+  "meta": {
+    "region": "North America",
+    "year": "2025",
+    "generated_by": "InfoGen"
+  },
+  "stats": {
+    "growth_rate": "+450%",
+    "active_participants": "2.4M",
+    "hashtag_views": "850M+"
+  },
+  "platforms": [
+    {"name": "TikTok", "percent": 65, "color": "#ff0050"},
+    {"name": "Instagram", "percent": 25, "color": "#C13584"},
+    {"name": "Discord", "percent": 10, "color": "#5865F2"}
+  ],
+  "timeline": [
+    {"month": "Jan", "event": "First viral clips surface"},
+    {"month": "Apr", "event": "Gaming communities adopt the slang"},
+    {"month": "Aug", "event": "Peak popularity in schools"},
+    {"month": "Dec", "event": "Mainstream media coverage"}
+  ],
+  "demographics": {
+    "13-15": 45,
+    "16-18": 35,
+    "19-24": 20
+  },
+  "buzzwords": ["No cap", "Real ones", "Shift", "Grid"]
+}
