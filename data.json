@@ -1,11 +1,12 @@
 {
   "title": "THE RISE OF 67",
-  "subtitle": "Cultural Phenomenon Report",
+  "subtitle": "How a Teen Saying Became a Cultural Phenomenon",
   "meta": {
     "region": "North America",
     "year": "2025",
     "generated_by": "InfoGen"
   },
+  "definition": "A viral saying adopted by children and teens across North America, evolving from niche slang into a mainstream cultural marker through social media amplification.",
   "stats": {
     "growth_rate": "+450%",
     "active_participants": "2.4M",
@@ -13,19 +14,38 @@
   },
   "platforms": [
     {"name": "TikTok", "percent": 65, "color": "#ff0050"},
-    {"name": "Instagram", "percent": 25, "color": "#C13584"},
-    {"name": "Discord", "percent": 10, "color": "#5865F2"}
+    {"name": "Instagram", "percent": 20, "color": "#C13584"},
+    {"name": "YouTube", "percent": 10, "color": "#FF0000"},
+    {"name": "Discord", "percent": 5, "color": "#5865F2"}
   ],
   "timeline": [
-    {"month": "Jan", "event": "First viral clips surface"},
-    {"month": "Apr", "event": "Gaming communities adopt the slang"},
-    {"month": "Aug", "event": "Peak popularity in schools"},
-    {"month": "Dec", "event": "Mainstream media coverage"}
+    {"period": "Late 2024", "event": "First mentions in niche online communities"},
+    {"period": "Jan 2025", "event": "Viral TikTok clips surface"},
+    {"period": "Apr 2025", "event": "Gaming & school communities adopt the slang"},
+    {"period": "Jun 2025", "event": "Cross-platform meme explosion"},
+    {"period": "Aug 2025", "event": "Peak popularity — schools, fashion, music"},
+    {"period": "Oct 2025", "event": "Mainstream media coverage begins"},
+    {"period": "Dec 2025", "event": "Brands & advertisers co-opt the trend"},
+    {"period": "2026", "event": "Cultural staple — embedded in teen identity"}
   ],
   "demographics": {
-    "13-15": 45,
-    "16-18": 35,
-    "19-24": 20
+    "10-12": 15,
+    "13-15": 40,
+    "16-18": 30,
+    "19-24": 15
   },
-  "buzzwords": ["No cap", "Real ones", "Shift", "Grid"]
+  "impacts": [
+    "Peer bonding & group identity marker",
+    "New slang entering everyday conversation",
+    "Fashion & music crossover references",
+    "Mainstream media & brand adoption",
+    "Debate over youth culture & screen time"
+  ],
+  "buzzwords": ["No cap", "Real ones", "Shift", "Grid", "67 vibes"],
+  "culture_signals": ["Fashion (colorways, accessories)", "Slang & language shifts", "Music samples & references", "Meme templates & remix culture"],
+  "sources_placeholder": [
+    "[Source 1] — trend report URL",
+    "[Source 2] — news article URL",
+    "[Source 3] — social analytics blog URL"
+  ]
 }
